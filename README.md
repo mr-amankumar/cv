@@ -1,2 +1,1 @@
-# cv
-Its Design Only Html
+I developed a simple resume using html
